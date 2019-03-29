@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Sjiraffen Samuel',
-    description: 'En bok av Andreas Brox-Fadum.',
+    title: 'Den Store BirgerBoka',
+    description: 'En bok om Birger Otto Libell.',
+    authors: 'Venner og familie',
     // change some later
     image: `${process.env.DEPLOY_PRIME_URL}/some.jpg`,
     lang: 'da',
