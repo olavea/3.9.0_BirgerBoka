@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Den Store BirgerBoka',
-    description: 'En bok om Birger Otto Libell.',
+    title: 'BirgerBoka',
+    description:
+      'Venner og familie av Birger Otto Libell forteller hverandre sitt favoritt BirgerMinne.',
     authors: 'Venner og familie',
     // change some later
     image: `${process.env.DEPLOY_PRIME_URL}/some.jpg`,
